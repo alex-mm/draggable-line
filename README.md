@@ -6,7 +6,7 @@
 
 uxcore-draggable-line ui component for react
 
-![draggable](http://git.cn-hangzhou.oss-cdn.aliyun-inc.com/uploads/uxcore/doc/f3357149ea2382b913415468be2afccf/draggable.gif)
+![draggable](https://cloud.githubusercontent.com/assets/3302053/25882000/d182eea4-3572-11e7-8c13-9d2674816412.gif)
 
 #### setup develop environment
 
